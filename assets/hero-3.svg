@@ -1,13 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Hero Slide 3">
-  <rect width="1200" height="900" fill="#ffeab8"/>
-  <circle cx="190" cy="180" r="90" fill="#f0a23b" opacity="0.18"/>
-  <circle cx="980" cy="220" r="130" fill="#f0a23b" opacity="0.12"/>
-  <circle cx="940" cy="710" r="110" fill="#f0a23b" opacity="0.15"/>
-  <rect x="140" y="180" rx="32" ry="32" width="920" height="540" fill="#ffffff" opacity="0.95"/>
-  <rect x="200" y="255" rx="22" ry="22" width="800" height="270" fill="#f0a23b" opacity="0.18"/>
-  <circle cx="330" cy="620" r="46" fill="#f0a23b" opacity="0.5"/>
-  <circle cx="470" cy="620" r="46" fill="#f0a23b" opacity="0.35"/>
-  <circle cx="610" cy="620" r="46" fill="#f0a23b" opacity="0.2"/>
-  <text x="600" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="66" font-weight="700" fill="#2d2b44">Hero Slide 3</text>
-  <text x="600" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#6d6a87">Dummy image placeholder</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0%" stop-color="#9fce00"/>
+    <stop offset="100%" stop-color="#b8e6ff"/>
+  </linearGradient>
+  <radialGradient id="sun" cx="50%" cy="36%" r="35%">
+    <stop offset="0%" stop-color="#fffef9" stop-opacity="0.95"/>
+    <stop offset="100%" stop-color="#fffef9" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1200" height="800" rx="40" fill="url(#bg)"/>
+<circle cx="600" cy="290" r="230" fill="url(#sun)"/>
+<path d="M0 680 C160 620, 340 740, 520 690 C710 640, 920 740, 1200 660 L1200 800 L0 800 Z" fill="#cfe97a"/>
+<path d="M0 710 C180 670, 340 790, 560 720 C770 655, 980 760, 1200 705 L1200 800 L0 800 Z" fill="#9fce00"/>
+<g opacity="0.22">
+  <circle cx="130" cy="130" r="28" fill="#fff"/>
+  <circle cx="1070" cy="150" r="24" fill="#fff"/>
+  <circle cx="980" cy="520" r="20" fill="#fff"/>
+</g>
+<image href="cleverland-logo.png" x="440" y="130" width="320" height="320" preserveAspectRatio="xMidYMid meet"/>
+<text x="600" y="520" text-anchor="middle" font-size="70" font-family="Arial, sans-serif" font-weight="700" fill="#ffffff">Childcare Support</text>
+<text x="600" y="585" text-anchor="middle" font-size="30" font-family="Arial, sans-serif" fill="#f9fff0">Safe, warm, and nurturing care</text>
+<text x="600" y="120" text-anchor="middle" font-size="48" font-family="Arial, sans-serif" fill="#fff">✦</text>
 </svg>
