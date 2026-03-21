@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Gallery 7">
+  <rect width="1200" height="900" fill="#d9f0ff"/>
+  <circle cx="190" cy="180" r="90" fill="#1f9bcf" opacity="0.18"/>
+  <circle cx="980" cy="220" r="130" fill="#1f9bcf" opacity="0.12"/>
+  <circle cx="940" cy="710" r="110" fill="#1f9bcf" opacity="0.15"/>
+  <rect x="140" y="180" rx="32" ry="32" width="920" height="540" fill="#ffffff" opacity="0.95"/>
+  <rect x="200" y="255" rx="22" ry="22" width="800" height="270" fill="#1f9bcf" opacity="0.18"/>
+  <circle cx="330" cy="620" r="46" fill="#1f9bcf" opacity="0.5"/>
+  <circle cx="470" cy="620" r="46" fill="#1f9bcf" opacity="0.35"/>
+  <circle cx="610" cy="620" r="46" fill="#1f9bcf" opacity="0.2"/>
+  <text x="600" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="66" font-weight="700" fill="#2d2b44">Gallery 7</text>
+  <text x="600" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#6d6a87">Dummy image placeholder</text>
+</svg>
